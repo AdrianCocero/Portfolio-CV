@@ -3,6 +3,7 @@
 ## 📓 Acerca de mí
 
 LLevo estudiando programación desde 2023, en este tiempo he completado un máster en Full Stack Development y una formación de 3 meses específica de programación SAP en la que conseguí la certificación oficial SAP Development Associate - ABAP with SAP NetWeaver 7.50. 
+
 Anteriormente me he dedicado durante más de 7 años a un sector completamente diferente, el sector sanitario. Por lo que soy un perfil que se ha reciclado académicamente, una persona resiliente, curiosa, con una mentalidad de crecimiento y ambiciosa.
 
 ## 💡Proyectos
