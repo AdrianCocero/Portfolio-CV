@@ -34,4 +34,4 @@ Aplicación Web para gestión en clínicas dentales; gestión de agendas, citas,
 
 **2024 Máster Full Stack Development**  
 
-**2025 Formación SAP ABAP Deverloper**
+**2025 Formación SAP ABAP Developer**
