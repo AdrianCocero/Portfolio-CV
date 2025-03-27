@@ -4,16 +4,15 @@
 @import "{{ site.theme }}";
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100..900&display=swap');
 
+:root{
+  background-color: rgb(44, 44, 44);
+  color: antiquewhite;
+}
+
 body {
     font-family: "Roboto Slab";
-    background-color: rgb(44, 44, 44);
-    color: antiquewhite;
   }
 
-
-
- 
-  
   h2, a {
     color: #125751;
   }
