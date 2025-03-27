@@ -1,0 +1,10 @@
+title: Adrian Cocero Ramirez
+
+logo: ""
+
+description: SAP ABAP Developer, Full Stack developer
+
+theme: jekyll-theme-minimal 
+
+plugins:
+  - jekyll-seo-tag # Add SEO plugin
