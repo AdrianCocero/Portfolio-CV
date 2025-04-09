@@ -14,11 +14,13 @@ A continuación presento mis proyectos donde demuestro mis habilidades técnicas
 
 TFM del Máster FullStack
 
-![MolarisApp](assets/MolarisLogo.jpg)  
+![MolarisApp](assets/MolarisLogo.jpg)
 
-Aplicación Web para gestión en clínicas dentales; gestión de agendas, citas, facturas, alta de pacientes...
+Se trata de un proyecto creado enconjunto con 3 compañeros del máster. Es una aplicación Web de gestión en clínicas dentales; gestión de agendas, citas, facturas, alta de pacientes...
 
 [🔗 MolarisApp.com](https://molaris.netlify.app/)
+
+Para tener acceso a toda la aplicación ponte en contacto conmigo por Linkedin, ya que el primer dashboard es un login.
 
 
 ## 🤹 Skills
