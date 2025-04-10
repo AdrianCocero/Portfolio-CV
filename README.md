@@ -1,6 +1,6 @@
 # Portfolio Adrian Cocero
 
-![Avatar](assets/Foto Avatar .jpg)
+![Avatar](assets/Avatar.jpg)
 
 ## 📓 Acerca de mí
 
