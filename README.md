@@ -1,7 +1,5 @@
 # Portfolio Adrian Cocero
 
-![Avatar](assets/Avatar.jpg)
-
 ## 📓 Acerca de mí
 
 LLevo estudiando programación desde 2023, en este tiempo he completado un máster en Full Stack Development y una formación de 3 meses específica de programación SAP en la que conseguí la certificación oficial SAP Development Associate - ABAP with SAP NetWeaver 7.50. 
