@@ -20,7 +20,7 @@ Se trata de un proyecto creado enconjunto con 3 compañeros del máster. Es una 
 
 [🔗 MolarisApp.com](https://molaris.netlify.app/)
 
-Para tener acceso a toda la aplicación ponte en contacto conmigo por Linkedin, ya que el primer dashboard es un login.
+Para tener acceso a toda la aplicación ingresa con el usuario: admin@gmail.com y contraseña: 123456, ya que el primer dashboard es un login.
 
 
 ## 🤹 Skills
